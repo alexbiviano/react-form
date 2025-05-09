@@ -14,4 +14,14 @@ ul {
 li {  
   margin: 10px 0;  
   font-size: 18px;  
+}
+
+input {  
+  padding: 8px;  
+  margin-right: 10px;  
+}  
+
+button {  
+  padding: 8px 12px;  
+  cursor: pointer;  
 }  
