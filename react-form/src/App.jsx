@@ -8,7 +8,7 @@ function App() {
     "Pasta all'amatriciana",  
     "Pasta alla gricia",  
     "Pasta alla puttanesca"  
-  ];  
+  ];   
 
   return (  
     <div className="App">  
